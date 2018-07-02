@@ -7,7 +7,7 @@
         <licensable>true</licensable>
         <license_model>none</license_model>
         <logo/>
-        <menu/>
+        <menu display_value="Loaner Request">b0c54be1db8313002667d001cf9619c5</menu>
         <name>Loaner Request</name>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -23,9 +23,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2018-07-02 06:01:56</sys_created_on>
         <sys_id>ee6da2e9db0313002667d001cf961931</sys_id>
-        <sys_mod_count>0</sys_mod_count>
+        <sys_mod_count>1</sys_mod_count>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2018-07-02 06:01:56</sys_updated_on>
+        <sys_updated_on>2018-07-02 07:49:59</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <user_role/>
